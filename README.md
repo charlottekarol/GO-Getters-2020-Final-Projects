@@ -5,4 +5,6 @@ Hi there! Welcome to the final project showcase for the GO Getter Summer 2020 Vi
 Please enjoy and learn from their hard work by checking out their videos!
 
 Affinity Groups
-https://youtu.be/inpDtmXZp6c 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nsr5swWqfUY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
