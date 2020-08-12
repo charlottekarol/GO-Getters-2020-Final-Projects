@@ -15,21 +15,21 @@ Using the intersection of school desegregation as their lens, GO Getters' presen
 
 ## Student Tracking
 	
-### presented by Liam Heraty, Sahana Sridhar, and Ridwan Islam
+#### presented by Liam Heraty, Sahana Sridhar, and Ridwan Islam
 
 [![](http://img.youtube.com/vi/inpDtmXZp6c/0.jpg)](http://www.youtube.com/watch?v=inpDtmXZp6c "")
 
 
 ## Literacy for Multi-Lingual Learners
 
-### presented by Gina Abreu, Jennifer Bortner, and Nico Navab
+#### presented by Gina Abreu, Jennifer Bortner, and Nico Navab
 
 [![](http://img.youtube.com/vi/48wbLAWcRME/0.jpg)](http://www.youtube.com/watch?v=48wbLAWcRME "")
 
 
 ## Community Schools
 	
-presented by Yareimy Patrocinio, Melissa Parades, and Delgracia Sainvil
+#### presented by Yareimy Patrocinio, Melissa Parades, and Delgracia Sainvil
 	
 [![](http://img.youtube.com/vi/TQrJofYAXmc/0.jpg)](http://www.youtube.com/watch?v=TQrJofYAXmc "")
 
@@ -50,28 +50,28 @@ presented by Maheen Ali, Jayla Gilmore, and Ciara McNamara
 
 ## Screened versus Unscreened Schools
 	
-### presented by Samara Corbin, Ciara Malamug, and Arlette Perez
+#### presented by Samara Corbin, Ciara Malamug, and Arlette Perez
 	
 [![](http://img.youtube.com/vi/uUTrzwoufB4/0.jpg)](http://www.youtube.com/watch?v=uUTrzwoufB4 "")
 
 
 ## SHSAT (Specialized High School Admission Test)
 	
-### presented by Ricky Castillo, Krishan Dave, and Katelyn Leung
+#### presented by Ricky Castillo, Krishan Dave, and Katelyn Leung
 	
 [![](http://img.youtube.com/vi/yMX1DMPTskc/0.jpg)](http://www.youtube.com/watch?v=yMX1DMPTskc "")
 
 
 ## Diverse and Inclusive Curricula
 	
-### presented by Ciana King, Plum Luard, Luna Perez, and Mathew Wallace
+#### presented by Ciana King, Plum Luard, Luna Perez, and Mathew Wallace
 
 [![](http://img.youtube.com/vi/ItrzXUjgFlo/0.jpg)](http://www.youtube.com/watch?v=ItrzXUjgFlo "")
 
 
 ## Student Discipline
 	
-### presented by Grace Burns, Isabelle Kaminsky, and Hudson Kassen
+#### presented by Grace Burns, Isabelle Kaminsky, and Hudson Kassen
 
 [![](http://img.youtube.com/vi/9zPCz3fB1Rs/0.jpg)](http://www.youtube.com/watch?v=9zPCz3fB1Rs "")
 
