@@ -10,7 +10,7 @@ Using the intersection of school desegregation as their lens, GO Getters' presen
 	
 ### presented by Kimberly Pineda, Joan Varous, and Kristen Wallace
 
-[![](http://img.youtube.com/vi/nsr5swWqfUY/0.jpg)](http://www.youtube.com/watch?v=nsr5swWqfUY "")
+[![Affinity Groups](http://img.youtube.com/vi/nsr5swWqfUY/0.jpg)](http://www.youtube.com/watch?v=nsr5swWqfUY "Affinity Groups #gogetters2020")
 
 
 ## Student Tracking
