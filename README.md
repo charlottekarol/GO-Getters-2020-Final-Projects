@@ -8,7 +8,7 @@ Affinity Groups
 	
 presented by Kimberly Pineda, Joan Varous, and Kristen Wallace
 
-[![](http://img.youtube.com/vi/nsr5swWqfUY/0.jpg)](http://www.youtube.com/watch?v=nsr5swWqfUY "")
+[![](http://img.youtube.com/vi/nsr5swWqfUY/0.jpg)]
 
 
 Student Tracking
@@ -74,7 +74,5 @@ presented by Grace Burns, Isabelle Kaminsky, and Hudson Kassen
 [![](http://img.youtube.com/vi/9zPCz3fB1Rs/0.jpg)](http://www.youtube.com/watch?v=9zPCz3fB1Rs "")
 
 	
-
-
 
 
