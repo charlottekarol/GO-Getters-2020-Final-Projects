@@ -1,6 +1,10 @@
-# GO Getters 2020 - Final Projects
+# GO-Getters-2020-Final-Projects
 
-Hi there! Welcome to the final project showcase for the GO Getter Summer 2020 Virtual Course. We welcomed 31 high school students to the program this summer and engaged in discussions and activities throughout our 5 weeks to understand and unpack the history of school segegration and educational inequities in New York City. Participants worked in groups to complete a final project where they created a "teach-in" on a specific topic and it's connection with school segregation and integration efforts. 
+Hi there! Welcome to the final project showcase for the GO Getter Summer 2020 Virtual Course. 
+
+This summer, we welcomed 31 high school students to the program and invited them to engage in discussions/activities throughout the 5-week virtual course to understand and unpack the history of school segegration and educational inequities in New York City. GO Getters met twice per week in 16 person cohorts, working in large and small groups to explore how segregation relates to school control, leadership, and choice. We investigated examples of integration efforts and alternatives and debated what solutions can eliminate disparities and how we understand these implications in our own schools and communitites. 
+
+Participants worked in groups to complete a final project where they created a "teach-in" on a specific topic and it's connection with school segregation and integration efforts. 
 
 Please enjoy and learn from their hard work by checking out their videos!
 
@@ -8,7 +12,7 @@ Affinity Groups
 	
 presented by Kimberly Pineda, Joan Varous, and Kristen Wallace
 
-[![](http://img.youtube.com/vi/nsr5swWqfUY/0.jpg)]
+[![](http://img.youtube.com/vi/nsr5swWqfUY/0.jpg)](http://www.youtube.com/watch?v=nsr5swWqfUY "")
 
 
 Student Tracking
@@ -48,7 +52,7 @@ presented by Maheen Ali, Jayla Gilmore, and Ciara McNamara
 
 Screened versus Unscreened Schools
 	
-	presented by Samara Corbin, Ciara Malamug, and Arlette Perez
+presented by Samara Corbin, Ciara Malamug, and Arlette Perez
 	
 [![](http://img.youtube.com/vi/uUTrzwoufB4/0.jpg)](http://www.youtube.com/watch?v=uUTrzwoufB4 "")
 
@@ -74,5 +78,7 @@ presented by Grace Burns, Isabelle Kaminsky, and Hudson Kassen
 [![](http://img.youtube.com/vi/9zPCz3fB1Rs/0.jpg)](http://www.youtube.com/watch?v=9zPCz3fB1Rs "")
 
 	
+
+
 
 
