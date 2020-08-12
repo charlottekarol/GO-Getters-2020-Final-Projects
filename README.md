@@ -1,4 +1,4 @@
-# GO-Getters-2020-Final-Projects
+# GO Getters 2020 - Final Projects
 
 Hi there! Welcome to the final project showcase for the GO Getter Summer 2020 Virtual Course. 
 
