@@ -77,5 +77,4 @@ presented by Maheen Ali, Jayla Gilmore, and Ciara McNamara
 
 
 
-<div class="embed-container">
-
+{% include youtubePlayer.html id=page.yMX1DMPTskc %}
