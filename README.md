@@ -5,7 +5,10 @@ Hi there! Welcome to the final project showcase for the GO Getter Summer 2020 Vi
 Please enjoy and learn from their hard work by checking out their videos!
 
 Affinity Groups
+
 [![](http://img.youtube.com/vi/nsr5swWqfUY/0.jpg)](http://www.youtube.com/watch?v=nsr5swWqfUY "Affinity Groups")
 
+Student Tracking
 
+[![](http://img.youtube.com/vi/inpDtmXZp6c/0.jpg)](http://www.youtube.com/watch?v=inpDtmXZp6c "Student Tracking")
 
