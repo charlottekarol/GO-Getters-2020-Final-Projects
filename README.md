@@ -2,8 +2,6 @@
 
 Hi there! Welcome to the final project showcase for the GO Getter Summer 2020 Virtual Course. 
 
-Participants will obtain an in-depth exploration of educational equity issues, specifically as they pertain to New York City students. This course is also a chance for participants to collaborate with and learn from their peers across the city.
-
 This summer, GO Project welcomed 31 high school students to the GO Getter program with the goal to explore the history and current state of school segegration and educational inequities in New York City. GO Getters (split into 2 cohorts) had the chance to collaborate with and learn from peers across the city as they attended ten 1-hour, live professional development sessions throughout the 5-week program. Participants shared and explored both lived and learned experiences across topics like school control, school choice, school leadership and power dynamics, curriculum, and teacher diversity. To culminate the course, GO Getters worked in groups to complete a final project where they created a "teach-in" on a specific topic and it's connection with school segregation and integration efforts. 
 
 GO Getters' presentations explore the history of their topic and how it has influenced the NYC educational system overtime, using the intersection of school desegregation as their lens. Please enjoy and learn from their hard work by checking out their videos!
