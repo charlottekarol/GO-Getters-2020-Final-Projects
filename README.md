@@ -75,6 +75,3 @@ presented by Maheen Ali, Jayla Gilmore, and Ciara McNamara
 
 [![Student Discipline](http://img.youtube.com/vi/9zPCz3fB1Rs/0.jpg)](http://www.youtube.com/watch?v=9zPCz3fB1Rs "Student Discipline #gogetter2020")
 
-
-{% include youtubePlayer.html id="yMX1DMPTskc" %}
-
