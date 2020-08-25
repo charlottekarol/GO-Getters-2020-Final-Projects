@@ -4,7 +4,8 @@ Hi there! Welcome to the final project showcase for the GO Getter Summer 2020 Vi
 
 This summer, GO Project welcomed 31 high school students to the GO Getter program with the goal to explore the history and current state of school segegration and educational inequities in New York City. GO Getters (split into 2 cohorts) had the chance to collaborate with and learn from peers across the city as they attended ten 1-hour, live workshop sessions throughout the 5-week program. With the guidance of weekly readings/videos/podcasts, participants developed a deeper understanding of zoning, school control and leadership, school choice systems, and analyzed examples of integration efforts and alternatives. GO Getters shared their own personal experiences from their schools and communitites and discussed how they can take action beyond their learning this summer. In culimination, GO Getters worked in groups to complete a final project where they created a "teach-in" on a specific topic and it's connection with school segregation and integration efforts. 
 
-Using the intersection of school desegregation as their lens, GO Getters' presentations explore the history of their topics and how it has influenced the NYC educational system overtime. Please enjoy their videos and learn from their hard work!
+Using the intersection of school desegregation as their lens, GO Getters' presentations explore the history of their topics and how it has influenced the NYC educational system overtime. Please enjoy their videos and learn from their hard work! 
+*Please click on the video thumbnail to access - it will take you directly to Youtube to play.*
 
 ## Affinity Groups
 	
